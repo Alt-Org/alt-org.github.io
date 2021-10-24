@@ -1,5 +1,6 @@
 # alt-org.github.io
-GitHub Pages site for Alt-Org.
+
+[GitHub Pages](https://pages.github.com/) site for **Alt-Org**.
 
 ## Usefull links
 
