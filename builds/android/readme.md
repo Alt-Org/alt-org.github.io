@@ -1,4 +1,4 @@
-This folder contains some Android "build reports", most to see what sis used in build or is not!
+This folder contains some Android "build reports", mostly to see what sis used in a build or is not!
 
 YYYY-MM-DD-m_Build_Android.log contains original UNITY build log (and Build Report) with some logging from our batch build script.
 Build Report is located somewhere around line 1000 and can be found searching text "Build Report".
