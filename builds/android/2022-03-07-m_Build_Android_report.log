@@ -1,0 +1,264 @@
+Build target is Android
+Build contains 1037 total files, their size is  12 726,0 kb
+Build contains 378 ASSET files, their size is  12 414,5 kb (35,2%)
+Build contains 658 PACKAGE files, their size is   77,1 kb (0,0%)
+Build contains 1 RESOURCE files, their size is   234,4 kb (0,0%)
+Project contains 252 unused assets for Android build
+Excluded 2 folders and 35 files
+Build uses 1 TEST assets
+TEST ASSET	Assets/Battle/Scripts/Test/BallControllerTest.cs
+Unused assets total size is  321 116,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (0).png	 11 840,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (5).png	 8 885,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (3).png	 8 854,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (4).png	 8 842,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (27).png	 8 813,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (2).png	 8 811,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (1).png	 8 803,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (28).png	 8 800,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (29).png	 8 795,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (26).png	 8 783,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (6).png	 8 781,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (7).png	 8 655,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (25).png	 8 648,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (8).png	 8 605,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (24).png	 8 535,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (23).png	 8 523,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (9).png	 8 521,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (10).png	 8 336,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (22).png	 8 265,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (15).png	 8 211,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (11).png	 8 196,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (16).png	 8 166,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (14).png	 8 159,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (17).png	 8 148,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (21).png	 8 142,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (18).png	 8 140,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (20).png	 8 131,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (19).png	 8 115,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (12).png	 8 063,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (13).png	 7 971,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tras_anim_005.mp4	 4 596,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Matsin tulos.PNG	 2 067,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/jalokivet.png	 2 041,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/presentaatio3.png	 1 783,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/ryöstö.PNG	 1 743,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/läski ikkunassa.png	 1 740,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/presentaatio4.png	 1 552,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kiusaaja.png	 1 290,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/älykkö.png	 1 194,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Shields/HotDog/ALT_Kilpi_Hodari_05.png	 1 170,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Shields/Brush/ALT_Kilpi_Pensseli_05.png	 1 167,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Shields/Girls/ALT_Kilpi_Tytto_05.png	 1 165,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Shields/Bullied/ALT_Kilpi_Kiusattu_05.png	 1 099,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/chatti_tausta.png	 1 066,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/uusi sihteeri.png	 1 058,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vaimonhakkaaja.png	  956,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/UUSI MAALARI.png	  933,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/silmäjuttu.PNG	  929,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vaihto ryöstöön.PNG	  916,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/sihteeri ikkunassa.png	  904,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tähtitausta.png	  862,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/einstein 2.png	  848,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/avatar_paa_tausta1.png	  831,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/avatar_paa_tausta.png	  761,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Sihteeri .png	  760,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Tasks.png	  716,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/presentaatio2.png	  688,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vihreä silmä.png	  643,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/uusi pallo.png	  627,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/hahmot_sketch.png	  612,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/UUSI SANKARIGALLERIA 2.png	  603,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pelaaja profiili.PNG	  576,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/mercury.png	  528,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/jupiter.png	  519,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/henkiin heräääminen animaatio peruutettu.PNG	  517,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kuvataiteilija.png	  497,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/lisää kerrostaloon.png	  452,0 kb
+UNUSED	PROD	Assets/Battle/Graphics/ALT_Collider_Right.png	  446,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/level up.PNG	  441,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/äänestyslaatikko.png	  427,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/ego 1.png	  402,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/testi_teksti_tausta5.png	  402,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/star_nappi 1.png	  399,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/aanestys_painike_mv.png	  388,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/asetukset_mv1.png	  387,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/ok_nappi4_unity.png	  381,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/aanestys_painike.png	  380,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/perus_painike.png	  376,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/älykkö zombi.png	  368,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kirpputorin ponnahdusikkuna näkymä.PNG	  360,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/timantti sininen.png	  359,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/luo oma klaaniplaneetta.PNG	  358,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/1_pokaali_mv1.png	  356,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/x_nappi_unity.png	  351,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/avaruus2.png	  350,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pullukka.jpg	  336,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/timantti punainen.png	  329,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/timantti pinkki.png	  324,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/uudet housut.png	  323,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kirpputori.PNG	  323,0 kb
+UNUSED	PROD	Assets/Battle/Scenes/85-room-test-2.unity	  310,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/ShieldTest.unity	  303,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/timantti lila.png	  302,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/prof.jpg	  280,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/liittouma.png	  280,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/WhatsApp Image 2021-03-15 at 17.16.39.jpeg	  276,0 kb
+UNUSED	PROD	Assets/Battle/Scenes/86-player-test.unity	  276,0 kb
+UNUSED	PROD	Assets/Battle/Scenes/87-ball-test.unity	  275,0 kb
+UNUSED	PROD	Assets/Battle/Scenes/88-physics-test.unity	  270,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/zombi unikeko.png	  269,0 kb
+UNUSED	PROD	Assets/GameOver/Scenes/go-game-over-battle.unity	  265,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/SANKARIGALLERIA .png	  264,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/valinta.PNG	  261,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/miinaharavapallo.png	  260,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/3 kupla.png	  260,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/3_pokaali_mv1.png	  257,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/timantti oranssi.png	  248,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kaverilista.PNG	  248,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/tavis_pokaali.png	  240,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/HAHMON 100 VOITTOA ruutu.jpg	  233,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/klaaninäkymä.PNG	  228,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/klaaninäkymä.PNG	  228,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/sankareiden muokkaus.PNG	  226,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vaimonhakkaajan pää.png	  222,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/timantti vihreä.png	  219,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/WhatsApp Image 2021-03-15 at 17.16.40.jpeg	  205,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/FOOTER/FOOTER muurit matsiin.prefab	  204,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/WhatsApp Image 2021-03-15 at 17.17.12.jpeg	  202,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/osto_painike.png	  200,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/osto_painike.png	  200,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/ostoehdotukset.PNG	  195,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/VAKIO nappulat/tavis_pokaali_mv2.png	  186,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/003.png	  181,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/World_map_test.png	  173,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/presentaatio1.png	  173,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/ball_hit.wav	  172,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/WhatsApp Image 2021-03-15 at 17.16.58.jpeg	  171,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/aasdasd.PNG	  170,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/WhatsApp Image 2021-03-15 at 17.38.36.jpeg	  169,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/004.png	  166,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/005.png	  162,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/000.png	  157,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/001.png	  152,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tehtävät.PNG	  151,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/002.png	  148,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/slider.png	  147,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/007.png	  140,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/006.png	  140,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/venus.jpg	  137,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/SANKARIN HERÄÄMINEN HENKIIN.png	  133,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pullukka zombi.png	  125,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/neptune.jpg	  120,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Particles/Prefabs/HotdogParticle.prefab	  118,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/008.png	  114,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/napit.PNG	  112,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/läski 2.png	  111,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/voittajajoukkue.png	  109,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vihreä läski.png	  109,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/profiili.png	  107,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vaatteet.png	  105,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/planeetat.png	  104,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/sankarigalleria.jpeg	  101,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/010.png	  99,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/unity_animatio/009.png	  95,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/ALT ZONE logo.jpg	  94,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/häviäjäjoukkue.png	  89,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/hoodie.png	  85,0 kb
+UNUSED	PROD	Assets/UiProto/Scenes/10-uiProto.unity	  77,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/unikekon pää.png	  77,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/FOOTER/FOOTER.prefab	  72,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/parental controls.png	  71,0 kb
+UNUSED	PROD	Assets/UiProto/Scenes/Clan Planet/Pieces/Pieces.prefab	  70,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pissis1.PNG	  68,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kirpputori uusi.png	  66,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/level up tähti.png	  64,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/FOOTER/FOOTER ala ja ylapalkki.prefab	  63,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vanha maalari.PNG	  63,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/motto.png	  55,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/FOOTER/FOOTER Chat.prefab	  54,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/ala.png	  49,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/FOOTER/FOOTER 2.prefab	  47,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/zombi sihteeri.png	  46,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pelaajaprofiili.png	  45,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tileehdotus.png	  44,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pie chart.png	  43,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Avatars/Avatar_Placeholder.png	  43,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/SANKARIN MUOKKAUS ikkuna.prefab	  40,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/zombi kiusaaja.PNG	  38,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/uranus.jpg	  38,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/ylä.png	  35,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/suosikkisankari.png	  35,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pää 2.PNG	  33,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kys.png	  33,0 kb
+UNUSED	PROD	Assets/Battle/Prefabs/BallV2.prefab	  32,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pants.png	  31,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/enkeli.PNG	  31,0 kb
+UNUSED	PROD	Assets/UiProto/Scenes/Clan Planet/Planet Wire/Planet material/Planet_wire_alfa.png	  29,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tuoli 1.png	  29,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/clothes.png	  29,0 kb
+UNUSED	PROD	Assets/Battle/Prefabs/Ball.prefab	  28,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/paita.png	  26,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/BACK NAPPI.png	  25,0 kb
+UNUSED	PROD	Assets/MainMenu/Prefabs/WIndows/MainMenu.prefab	  24,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pöytä 1.png	  20,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kaverilista painike.png	  19,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/äijä.png	  18,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/shop.png	  18,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/maalarin pää.png	  18,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/uusi pie chart.PNG	  17,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/joku muu.png	  17,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Pää.png	  16,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/menu.png	  16,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/alt-raha.png	  16,0 kb
+UNUSED	PROD	Assets/Lobby/Scenes/70-Example-Lobby.unity	  16,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Alt-Rasti.png	  15,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Nametag.png	  14,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/Loading.png	  14,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/kirppis rahat.png	  14,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/POHJA.prefab	  13,0 kb
+UNUSED	PROD	Assets/UiProto/Scenes/99-prefabEditing.unity	  12,0 kb
+UNUSED	PROD	Assets/UiProto/Scenes/Clan Planet/Clan Planet.prefab	  11,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/leveli tähti.png	  11,0 kb
+UNUSED	PROD	Assets/MainMenu/Scenes/60-MainMenu.unity	  11,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/backgroundImg.png	  9,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tuoli 4.png	  8,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tuoli 2.png	  8,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pöytä 2.png	  7,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/äänestä.png	  6,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/tuoli 3.png	  6,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pöytä 3.png	  6,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pommi.PNG	  6,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/white_ball.png	  6,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/EyeballAnimation.anim	  6,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/FOOTER/FOOTER kotinappula 1.prefab	  5,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/shirt.png	  5,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/pöytä 4.png	  5,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Particles/Prefabs/GirlParticle.prefab	  4,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Particles/Prefabs/BulliedParticle.prefab	  4,0 kb
+UNUSED	PROD	Assets/Battle/JoelTests/Particles/Prefabs/BrushParticle.prefab	  4,0 kb
+UNUSED	PROD	Assets/UiProto/Scenes/Clan Planet/Planet Wire/Planet wire.prefab	  3,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/animation.png	  3,0 kb
+UNUSED	PROD	Assets/UiProto/Prefabs/TAUSTAT/TAUSTA sateenkaari.prefab	  2,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/asusteet.png	  2,0 kb
+UNUSED	PROD	Assets/Altzone/Materials/CustomSkybox.mat	  2,0 kb
+UNUSED	PROD	Assets/Altzone/Materials/BallV2 Material.mat	  2,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/Eyeball/Eyeball (0).controller	  2,0 kb
+UNUSED	PROD	Assets/Altzone/Materials/BadCheckerboard.png	  1,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/triangle_right.gif	  1,0 kb
+UNUSED	PROD	Assets/Altzone/Graphics/triangle_left.gif	  1,0 kb
+UNUSED	PROD	Assets/UiProto/UiProto.asmdef	  0,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/vaate tausta.png	  0,0 kb
+UNUSED	PROD	Assets/UiProto/Graphics/Adobe Tiedostot/box.png	  0,0 kb
+UNUSED	PROD	Assets/Scripts/Prg.Common.Part.asmref	  0,0 kb
+UNUSED	PROD	Assets/Prg/Prg.Common.asmdef	  0,0 kb
+UNUSED	PROD	Assets/MainMenu/Scenes/scene-MainMenu.asset	  0,0 kb
+UNUSED	PROD	Assets/MainMenu/Prefabs/WIndows/window-MainMenu.asset	  0,0 kb
+UNUSED	PROD	Assets/MainMenu/MainMenu.asmdef	  0,0 kb
+UNUSED	PROD	Assets/Lobby/Lobby.asmdef	  0,0 kb
+UNUSED	PROD	Assets/GameOver/GameOver.asmdef	  0,0 kb
+UNUSED	PROD	Assets/Battle/Prefabs/Windows/window-85-room-test.asset	  0,0 kb
+UNUSED	PROD	Assets/Battle/Battle.asmdef	  0,0 kb
+UNUSED	PROD	Assets/Altzone/Altzone.asmdef	  0,0 kb
+Unused assets PROD size is  321 116,0 kb in 252 files
+Unused assets TEST size is   0,0 kb in 0 files
